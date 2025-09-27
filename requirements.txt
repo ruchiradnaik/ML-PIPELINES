@@ -2,6 +2,5 @@ pandas
 numpy
 streamlit
 joblib
-sklearn
-plotly
-datetime
+scikit-learn
+openpyxl
