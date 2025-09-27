@@ -1,0 +1,33 @@
+{
+  "dataframe_path": "session_20250927_211003/dataframe.pkl",
+  "file_path": "session_20250927_211003/Titanic-Dataset.csv",
+  "X_cols": [
+    "PassengerId",
+    "Survived",
+    "Pclass",
+    "Name",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Ticket",
+    "Fare",
+    "Cabin"
+  ],
+  "y_col": "Embarked",
+  "task_type": "Classification",
+  "columns": [
+    "PassengerId",
+    "Survived",
+    "Pclass",
+    "Name",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Ticket",
+    "Fare",
+    "Cabin",
+    "Embarked"
+  ]
+}

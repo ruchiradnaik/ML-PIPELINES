@@ -1,0 +1,19 @@
+{
+  "dataframe_path": "session_20250927_195429/dataframe.pkl",
+  "file_path": "session_20250927_195429/GYM.csv",
+  "X_cols": [
+    "Gender",
+    "BMI Category",
+    "Exercise Schedule",
+    "Meal Plan"
+  ],
+  "y_col": "Goal",
+  "task_type": "Classification",
+  "columns": [
+    "Gender",
+    "Goal",
+    "BMI Category",
+    "Exercise Schedule",
+    "Meal Plan"
+  ]
+}

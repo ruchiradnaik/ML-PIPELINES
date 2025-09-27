@@ -1,0 +1,26 @@
+{
+  "dataframe_path": "session_20250927_222936/dataframe.pkl",
+  "file_path": "session_20250927_222936/teams.csv",
+  "X_cols": [
+    "team",
+    "country",
+    "year",
+    "events",
+    "athletes"
+  ],
+  "y_col": "medals",
+  "task_type": "Classification",
+  "columns": [
+    "team",
+    "country",
+    "year",
+    "events",
+    "athletes",
+    "age",
+    "height",
+    "weight",
+    "medals",
+    "prev_medals",
+    "prev_3_medals"
+  ]
+}
